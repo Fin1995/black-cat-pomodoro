@@ -1,0 +1,54 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Publish output
+publish/
+*.publishproj
+
+# Local screenshots and scratch files (may contain desktop or personal data)
+/screenshots/
+screen*.png
+/*.png
+/*.wav
+/*.mp3
+user.config
+tasks.xml
+*.log
+*.tmp
+*.bak
+*.swp
